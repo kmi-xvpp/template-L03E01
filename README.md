@@ -1,4 +1,4 @@
-# L06E01: Credit Account
+# L03E01: Credit Account
 V modulu `credit_account.py` implementujte následující dunder metody:
 
 ```
